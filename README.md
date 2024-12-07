@@ -231,6 +231,3 @@ This project enhanced my SQL skills and provided valuable insights into the data
 
 
 
-## so now 
-
-thank you for reading
